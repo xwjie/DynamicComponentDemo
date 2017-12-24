@@ -29,7 +29,8 @@ public interface IComponent {
 
 # 实现自己的组件
 
-非常简单，新建一个项目。引入接口项目的依赖，实现接口即可。
+非常简单，新建一个项目。引入接口项目的依赖，实现接口即可。需要在组件上增加 `@Component` 。
+
 
 ```Java
 package cn.xiaowenjie;
