@@ -6,7 +6,7 @@
 
 新建一个项目，定义接口。
 
-```
+```Java
 package cn.xiaowenjie;
 
 /**
@@ -31,7 +31,7 @@ public interface IComponent {
 
 非常简单，新建一个项目。引入接口项目的依赖，实现接口即可。
 
-```
+```Java
 package cn.xiaowenjie;
 
 import org.springframework.stereotype.Component;
